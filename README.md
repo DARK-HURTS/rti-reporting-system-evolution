@@ -18,6 +18,9 @@ The original reporting template:
 - Limited the ability to aggregate and analyze national RTI data  
 - Provided minimal insight into performance and compliance  
 
+## Detailed system evolution analysis:  
+→ [`02_Analysis/evolution_analysis.md`](./02_Analysis/evolution_analysis.md)
+
 ---
 
 ## Approach
