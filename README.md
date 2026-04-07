@@ -4,7 +4,7 @@
 
 ## Overview
 
-Led and contributed to the multi-year redesign of the RTI Annual Reporting Template used by public institutions to improve data quality, standardization, compliance tracking, and analytical usability.
+Led and contributed to the multi-year redesign of the RTI Annual Reporting Template used by public institutions. this was done to improve data quality, standardization, compliance tracking, and analytical usability.
 
 ---
 
