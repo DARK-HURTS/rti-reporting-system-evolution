@@ -83,3 +83,14 @@ The original reporting template:
 
 - Microsoft Word (Form design & structuring)  
 - Microsoft Excel (supporting analysis workflows)  
+
+---
+---
+
+## Supporting Artifacts
+
+- 📄 [2021 Template (Baseline)](./04_Artifacts/2021_template.docx)
+- 📄 [2022 Template](./04_Artifacts/2022_template.docx)  
+- 📄 [2023 Template (Redesign)](./04_Artifacts/2023_template.docx)  
+- 📄 [2024 Template (Governance)](./04_Artifacts/2024_template.docx)  
+- 📄 [2025 Template (Analytics)](./04_Artifacts/2025_template.docx)  
